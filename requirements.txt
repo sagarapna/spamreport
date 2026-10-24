@@ -1,0 +1,4 @@
+requests
+phonenumbers
+random-user-agent
+beautifulsoup4
